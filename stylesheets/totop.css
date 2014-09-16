@@ -1,0 +1,32 @@
+/*-----------------------------------------------------------------------------------
+TOTOP
+-----------------------------------------------------------------------------------*/
+
+a#toTop {
+	display:none;
+	text-decoration:none;
+	position:fixed;
+	bottom:47%;
+	right:42px;
+	overflow:hidden;
+	width:42px;
+	height:42px;
+	border:none;
+	text-indent:100%;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	z-index: 100;
+}
+
+span#toTopHover {
+	width:42px;
+	height:42px;
+	display:block;
+	overflow:hidden;
+	float:left;
+}
+
+#toTop:active, #toTop:focus {
+	outline:none;
+}

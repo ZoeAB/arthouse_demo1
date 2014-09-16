@@ -1,0 +1,11 @@
+.widget_thmlv_tweets ul {
+	margin: 0 0 20px;
+}
+
+.widget_thmlv_tweets ul li {
+	padding: 0 0 10px;
+}
+
+.widget_thmlv_tweets ul li a.twitter_time {
+	font-size: 0.8em;
+}

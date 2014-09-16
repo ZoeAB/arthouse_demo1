@@ -1,0 +1,30 @@
+.thmlv-dribbble-shots {
+	margin: 0;
+	padding: 0;
+}
+
+.thmlv-dribbble-shots li {
+	list-style-type: none;
+	margin: 0 0 20px;
+	position: relative;
+}
+
+.thmlv-dribbble-shots a {
+	max-width: 400px;
+}
+
+.thmlv-dribbble-shots img {
+	height: auto;
+	max-width: 100%;
+	width: auto;
+	display: block;
+}
+
+.thmlv-dribbble-shots .thmlv-dribbble-hover {
+	background: #ea4c89 url('../images/dribbble-icon.png') no-repeat center center;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0px;
+	display: none;
+}
